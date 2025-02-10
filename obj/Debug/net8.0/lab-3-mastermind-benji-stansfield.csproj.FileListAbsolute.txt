@@ -1,0 +1,15 @@
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\bin\Debug\net8.0\lab-3-mastermind-benji-stansfield.exe
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\bin\Debug\net8.0\lab-3-mastermind-benji-stansfield.deps.json
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\bin\Debug\net8.0\lab-3-mastermind-benji-stansfield.runtimeconfig.json
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\bin\Debug\net8.0\lab-3-mastermind-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\bin\Debug\net8.0\lab-3-mastermind-benji-stansfield.pdb
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.AssemblyInfoInputs.cache
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.AssemblyInfo.cs
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.csproj.CoreCompileInputs.cache
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.sourcelink.json
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\refint\lab-3-mastermind-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.pdb
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\lab-3-mastermind-benji-stansfield.genruntimeconfig.cache
+C:\Users\benji\code\my-code-dir\lab-3-mastermind-benji-stansfield\obj\Debug\net8.0\ref\lab-3-mastermind-benji-stansfield.dll
