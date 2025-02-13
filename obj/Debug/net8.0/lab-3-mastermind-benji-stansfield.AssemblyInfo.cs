@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-mastermind-benji-stansfield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f75f09cb9e787bc059077dc2f1c1ea241ecbacb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e7e77cc14f5c9feb8e711fd744931c9211601e")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-mastermind-benji-stansfield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-mastermind-benji-stansfield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

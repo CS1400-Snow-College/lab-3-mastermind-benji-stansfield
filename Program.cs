@@ -39,7 +39,7 @@ while (!solved)
     guessNumber++;
 
     Console.ForegroundColor = ConsoleColor.White;
-    Console.WriteLine($"Please guess a sequence of 4 lowercase letters with no repeats-");
+    Console.WriteLine($"Please guess a sequence of 4 lowercase letters-");
     Console.Write($"Guess {guessNumber}: ");
 
     string userGuess = Console.ReadLine().ToLower();
@@ -88,5 +88,11 @@ while (!solved)
     Console.ForegroundColor = ConsoleColor.Yellow;
     Console.WriteLine($"Letters in the wrong position: {correctLetter}");
 
-
-}
+    //determine the winner
+    if (correctPosition == 4)
+    {
+        Console.ForegroundColor = ConsoleColor.White;
+        Console.WriteLine($"Congratulations!! You guessed the code in {guessNumber} guesses!");
+        solved = true;
+    }
+};
