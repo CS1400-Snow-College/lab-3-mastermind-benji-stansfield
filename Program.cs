@@ -21,8 +21,9 @@ Console.Clear();
 //Creating the code
 string secretWord = ""; //makes a blank word
 Random rand = new Random();
+int secretWordLength = 4;
 char code;
-for (int i=0; i<5; i++)
+for (int i=0; i < secretWordLength; i++)
 {
     code = (char) rand.Next(97,104);
     if (!secretWord.Contains(code))
@@ -45,10 +46,25 @@ do
     Console.Write($"Guess {guessNumber}/10: ");
 
     string userGuess = Console.ReadLine().ToLower();
-    if (userGuess.Length != 4)
+
+    if (userGuess.Length != secretWordLength)
     {
         Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine("Guess must be exactly 4 letters.");
+        guessNumber--;
     };
+
+    int correctPosition = 0, correctLetter = 0;
+    bool[] counted = new bool[secretWordLength];
+
+    //Letters in the correct positions
+    for (int i = 0; i < secretWordLength; i++)
+    {
+        if (userGuess[i] == secretWord[i])
+        {
+            correctPosition++;
+            counted[i] = true;
+        }
+    }
 }
 while (guessNumber<=9);
